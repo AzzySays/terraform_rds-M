@@ -1,2 +1,2 @@
-# terraform_rds-M
-terraform_rds-M
+# terraform-rds-module
+this repository contains the terraform module
